@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<?xml-stylesheet type='text/xsl' href='interface.xsl'?>
+<interface uri="https://raw.githubusercontent.com/kyleparrott/libmsp430/master/libmsp430.xml" xmlns="http://zero-install.sourceforge.net/2004/injector/interface">
+  <name>libmsp430</name>
+  <summary>Library MSP430</summary>
+  <package-implementation package="libmsp430"/>
+  <package-implementation distributions="Arch" package="libmsp430"/>
+
+    <group arch="Linux-*">
+        <implementation id="sha1=74c264f3dee2e2955f45df373c7c1ce4d1f89783" version="0.0">
+            <archive href="https://raw.githubusercontent.com/kyleparrott/libmsp430/master/libmsp430.so.zip" size="25542475"/>
+        </implementation>
+    </group>
+    <group arch="MacOSX-*">
+        <implementation id="sha1=74c264f3dee2e2955f45df373c7c1ce4d1f89782" version="0.0">
+            <archive href="https://raw.githubusercontent.com/kyleparrott/libmsp430/master/libmsp430.dylib.zip" size="1761799"/>
+        </implementation>
+    </group>
+</interface>
+<!-- Base64 Signature
+iQIcBAABCgAGBQJX82PdAAoJEJzS+Pb4kyScXy4QAIaB8DF5CsZPhpI8dJzh0WnL8a6xHQ5XWMqg
+Ve/wtQGQ7TE1P5fmI24iTOK2nxmXINpeUrao4u3ExS2CTGb8YW4IBcTkP8VOd2OMdFbW2Jf3dCAt
+7R5RRk2s1r9qGOZrWFztFPgm+bi/Nb0vglQ2VdHBNb3jRNQ6HkfidXGrfNXv5V4JTgkGNChWSqBn
+9SM1fPLBnoCCcn/BGZG9z+GYHB3ep+f46a9AnPdYgOn7tqIZesnHA6dWTWXRumGwEkTWLKWjzEeP
+vrTHCuXSw6QVAd/2+2IASvnmavl6niEGSylQ3fdly44cjCbdj91bmyPdlP//YpERdjSTw0CSu2Vm
+D5BOP4dYsfEs//2OwCXUDpqvo0N/bwwta4mAs5T5g0pLKwIit4BmVeNOr+szg6gY6xClkI2lJp2H
+lJmXk73T97wNDCPL4UKCCTIchD0xCBDByokD7BVX/JyGZqHVBFu9q/qE3IgFBgXBZVbXOXYl2TxL
+mVhCQLnJzjDhsiqQOeR0fW1UdI0Hp8ZhDFa/mvKcJEwJdumPQXdVcJLBPC7y9qhBtn4vi33lCaLS
+6DTNPzRjmxTW6EpKfmMkMaS3wcFIGaEvSFQFH0bgY2yyH3re05A/Th7rPIy0j1aIhMP7snixeJrf
+jXmlQhTxEqqbwBXctfn2dqBCil9DrjK76b7uHK33
+
+-->
