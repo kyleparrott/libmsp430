@@ -7,8 +7,8 @@
   <package-implementation distributions="Arch" package="libmsp430"/>
 
     <group arch="Linux-*">
-        <implementation id="sha1=74c264f3dee2e2955f45df373c7c1ce4d1f89783" version="0.0">
-            <archive href="https://raw.githubusercontent.com/kyleparrott/libmsp430/master/libmsp430.so.zip" size="25542475"/>
+        <implementation id="sha1=05ba1e2def23be71c12df81d3ffb907ea5aa918b" version="0.0">
+            <archive href="https://raw.githubusercontent.com/kyleparrott/libmsp430/master/libmsp430.so.zip" size="2938093"/>
         </implementation>
     </group>
     <group arch="MacOSX-*">
@@ -18,15 +18,15 @@
     </group>
 </interface>
 <!-- Base64 Signature
-iQIcBAABCgAGBQJX82PdAAoJEJzS+Pb4kyScXy4QAIaB8DF5CsZPhpI8dJzh0WnL8a6xHQ5XWMqg
-Ve/wtQGQ7TE1P5fmI24iTOK2nxmXINpeUrao4u3ExS2CTGb8YW4IBcTkP8VOd2OMdFbW2Jf3dCAt
-7R5RRk2s1r9qGOZrWFztFPgm+bi/Nb0vglQ2VdHBNb3jRNQ6HkfidXGrfNXv5V4JTgkGNChWSqBn
-9SM1fPLBnoCCcn/BGZG9z+GYHB3ep+f46a9AnPdYgOn7tqIZesnHA6dWTWXRumGwEkTWLKWjzEeP
-vrTHCuXSw6QVAd/2+2IASvnmavl6niEGSylQ3fdly44cjCbdj91bmyPdlP//YpERdjSTw0CSu2Vm
-D5BOP4dYsfEs//2OwCXUDpqvo0N/bwwta4mAs5T5g0pLKwIit4BmVeNOr+szg6gY6xClkI2lJp2H
-lJmXk73T97wNDCPL4UKCCTIchD0xCBDByokD7BVX/JyGZqHVBFu9q/qE3IgFBgXBZVbXOXYl2TxL
-mVhCQLnJzjDhsiqQOeR0fW1UdI0Hp8ZhDFa/mvKcJEwJdumPQXdVcJLBPC7y9qhBtn4vi33lCaLS
-6DTNPzRjmxTW6EpKfmMkMaS3wcFIGaEvSFQFH0bgY2yyH3re05A/Th7rPIy0j1aIhMP7snixeJrf
-jXmlQhTxEqqbwBXctfn2dqBCil9DrjK76b7uHK33
+iQIcBAABCgAGBQJX9S6LAAoJEJzS+Pb4kyScynsP/2o7UZjDtdkfHP1lAzLj/qsUOpyCrvYKCmMC
+oY/ZeHjKhDG8To/YJLk/ElMF58qV3dzhfRq0cDH9cjnl8tTbGkK/jYINlNEvHwdf4qtzzKjcQWLm
+V0IVokEeJVOdXlFd2bdvQxC4HXNNmCowFEOAdUQ9Ou5W9UuTUVMTp6b7G8TA6tGh3j+EhannGqpG
+bXdmbhcNUbDclpvhAkdbYh8Z69Ci7K35yEnjGsj0JvjirjuglrfG7HpdiZp+jS9vleVM2LTwGzWm
+xbg2igZxotpNfEx19T5X0Cw8AxDYEXekA+3Y4NkfL1rGzLi0soWQc3qZE1/MH1LeSVYlv3aMSZE9
+MUD2vogycHwOWQPwkFTzLi2m4O1wwZKJBS4gyYhVtknDq3+rh0KDq2aBoaazD/FoQWirpaD01SuR
+GWNykxM7ZlowkmQaHUnv4tF02/CkFH68twwOC3LFdTKR63R/ammFQA49eyvzAEB/wTCj962XyAko
+MpzQM3BaPZeaNCm7RSOvs1dkefa+492mRbZl0H2QbRyLz/SFm70sxIv+1qSi0Y/Hyceee3PUURTY
+5PFRUkyg8zI+7JSLV5mJRSzf6+ykNf8eZqXHmYaswQgSC0vy4LTBnec1s8W/4oIrZPkkqZjHKXJX
+VpM3KKMwb2iEbveZkTShOS31uD+eCiIB6i8s6iOi
 
 -->
